@@ -8,6 +8,8 @@ public class QingYuNian {
         System.out.println("我是你的梦");
         System.out.println("我是你的梦");
         System.out.println("我是你的梦");
-        System.out.println("我是你的梦");
+        System.out.println("我是你的");
+        System.out.println("我是你的");
+        System.out.println("我是你的");
     }
 }
